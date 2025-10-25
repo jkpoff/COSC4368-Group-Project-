@@ -1,4 +1,7 @@
 # COSC4368-Group-Project-
-Colaborators:
 
+In order to access dataset:
+# pip install ucimlrepo
+
+Authors:
 Jonathan Poffenberger
