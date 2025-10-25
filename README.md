@@ -6,7 +6,10 @@ pip install ucimlrepo
 ```
 
 Authors:\
-Jonathan Poffenberger
+Muhammad Alyan Asmat\
+AyaanAli Lakhani\
+Jonathan Poffenberger\
+Kerem Gursoy
 
 Citation:\
 Janosi, A., Steinbrunn, W., Pfisterer, M., & Detrano, R.\
