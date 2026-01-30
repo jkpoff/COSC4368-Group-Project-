@@ -1,4 +1,4 @@
-# COSC4368-Group-Project-
+# COSC4368-Group-Project-CNN-XRAY-Project
 
 Authors:\
 Muhammad Alyan Asmat\
