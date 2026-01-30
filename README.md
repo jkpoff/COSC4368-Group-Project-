@@ -1,10 +1,5 @@
 # COSC4368-Group-Project-
 
-In order to access dataset:
-```
-pip install ucimlrepo
-```
-
 Authors:\
 Muhammad Alyan Asmat\
 AyaanAli Lakhani\
@@ -12,6 +7,5 @@ Jonathan Poffenberger\
 Kerem Gursoy
 
 Citation:\
-Janosi, A., Steinbrunn, W., Pfisterer, M., & Detrano, R.\
-(1989). Heart Disease [Dataset]. UCI Machine Learning Repository.\
-https://doi.org/10.24432/C52P4X.
+Chest X-Ray Dataset Sourced from Kaggle <br>
+https://www.kaggle.com/datasets/muhammadrehan00/chest-xray-dataset
